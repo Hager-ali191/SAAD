@@ -1,4 +1,4 @@
-# Systems Analysis & Design (SAD) — Lecture 1
+# Systems Analysis & Design — Lecture 1
 **Faculty:** Faculty of Computer and Information Sciences, Ain Shams University (FCIS ASU)  
 
 ---
