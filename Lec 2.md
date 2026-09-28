@@ -1,4 +1,4 @@
-# Systems Analysis & Design — Project Planning
+# Systems Analysis & Design — Lecture 2
 **Faculty:** Faculty of Computer and Information Sciences, Ain Shams University (FCIS ASU)
 
 ---
