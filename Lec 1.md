@@ -1,9 +1,9 @@
-# 🎨 Systems Analysis & Design (SAD) — Lecture 1
+# Systems Analysis & Design (SAD) — Lecture 1
 **Faculty:** Faculty of Computer and Information Sciences, Ain Shams University (FCIS ASU)  
 
 ---
 
-## 📊 Visual Concept Map (Lecture Overview)
+## Visual Concept Map (Lecture Overview)
 
 ```mermaid
 graph TD
